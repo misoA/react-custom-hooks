@@ -13,5 +13,6 @@ make react hooks and publish to npm
 - [x] useFadeIn
 - [x] useNetwork
 - [x] useScroll
+- [x] useFullscreen
 - [ ] useNotification
 - [ ] useAxios
