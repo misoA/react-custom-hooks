@@ -11,7 +11,7 @@ make react hooks and publish to npm
 - [x] useConfirm
 - [x] useBeforeLeave
 - [x] useFadeIn
-- [ ] useNetwork
+- [x] useNetwork
 - [ ] useNotification
 - [ ] useScroll
 - [ ] useAxios
