@@ -5,9 +5,9 @@ make react hooks and publish to npm
 - [x] useInput
 - [x] useTabs
 - [ ] useFetch
-- [ ] useTitle
+- [x] useTitle
 - [ ] usePageLeave
-- [ ] useClick
+- [x] useClick
 - [ ] useFadeIn
 - [ ] useNetwork
 - [ ] useNotification
