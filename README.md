@@ -9,7 +9,7 @@ make react hooks and publish to npm
 - [x] useHover
 - [x] usePreventLeave
 - [x] useConfirm
-- [ ] usePageLeave
+- [ ] useBeforeLeave
 - [ ] useFadeIn
 - [ ] useNetwork
 - [ ] useNotification
