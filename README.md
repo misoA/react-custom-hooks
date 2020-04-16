@@ -15,4 +15,4 @@ make react hooks and publish to npm
 - [x] useScroll
 - [x] useFullscreen
 - [x] useNotification
-- [ ] useAxios
+- [x] useAxios
