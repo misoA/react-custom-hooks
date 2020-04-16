@@ -2,5 +2,5 @@
 
 make react hooks and publish to npm
 
-- [ ] : useInput
+- [x] : useInput
 - [ ] : useFetch
