@@ -8,6 +8,7 @@ make react hooks and publish to npm
 - [x] useTitle
 - [ ] usePageLeave
 - [x] useClick
+- [x] useHover
 - [ ] useFadeIn
 - [ ] useNetwork
 - [ ] useNotification
